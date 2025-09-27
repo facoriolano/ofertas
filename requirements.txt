@@ -1,0 +1,4 @@
+requests
+lxml
+beautifulsoup4
+python-decouple # Para gerenciar variáveis de ambiente localmente
